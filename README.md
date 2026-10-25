@@ -12,4 +12,6 @@ I dati (profilo, saldo, ordini, corse, punti sulla mappa) restano salvati nel br
 
 - Funziona meglio da telefono.
 - Meteo e risposte IA di WhatUp usano servizi esterni gratuiti; senza connessione WhatUp usa risposte locali.
-- Progetto non ufficiale: Grand Theft Auto, Rockstar Games e tutti i marchi collegati appartengono ai rispettivi proprietari.
+
+- ​📌 Note di Disclaimer
+​Questo è un progetto fan-made a scopo dimostrativo e di sviluppo. Non è affiliato, sponsorizzato o associato in alcun modo a Rockstar Games o Take-Two Interactive.
